@@ -1,0 +1,17 @@
+****
+Open the folder where template is and Git bash here
+Inside git bash ,run command :
+     git init
+This will initialize .git folder and git local repo will be initiated
+
+To check the status use command : 
+      git status
+To stage all files command :
+      git add .
+To push them on local repos command :
+      git commit -m "Pushing files on the remote repository"
+ 
+Lets push the template files on remote repository :
+     git remote add origin <Remote repository URL>
+     git push 
+
